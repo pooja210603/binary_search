@@ -7,7 +7,7 @@ int main()
 	l=6;
 	int beg=0;
 	int end=l-1;
-	int mid,result;
+	int mid,result=-1;
 	while(beg<=end)
 {
 	mid=(beg+end)/2;
